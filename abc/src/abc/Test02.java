@@ -1,10 +1,6 @@
 package abc;
 
-public class Test01 {
-	private void test() {
-		
-	}
-
+public class Test02 {
 	public static void main(String[] args) {
 		
 	}
